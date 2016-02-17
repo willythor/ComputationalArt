@@ -22,7 +22,7 @@ def build_random_function(min_depth, max_depth):
                  these functions)
         
     """
-    #this function was tested through displaying 
+    #this function was tested through displaying it in the generate_art function
     #added the building blocks sum and difference 
     building_blocks = ["prod", "avg", "sum", "dif", "sin_pi", "cos_pi"]
 
